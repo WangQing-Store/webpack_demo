@@ -1,3 +1,3 @@
 # webpack_demo
-# npm install
-# npm dev
+ npm install
+ npm dev
